@@ -1,0 +1,22 @@
+
+h1{
+    color:maroon;
+}
+
+.post{
+    background-color: blanchedalmond;
+}
+
+.user{
+    font-style: italic;
+}
+
+textarea{
+    background-color: blanchedalmond;
+}
+
+.button{
+    width: 20%;
+    line-height: 200%;
+    border-radius: 10%;
+}
